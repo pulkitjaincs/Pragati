@@ -487,5 +487,4 @@ If you want, I can now:
 * scaffold a **microservice directory structure** and example code for `Activity Service` (Node.js + TypeORM) ready to drop into a repo.
 
 Tell me which of these three you want right away and I’ll produce it in the next message.
-#   P r a g a t i  
- 
+#
